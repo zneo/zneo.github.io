@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Neo的技术博客]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-12-10T11:24:19+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://zneo.github.io/atom.xml" rel="self"/>
+  <link href="http://zneo.github.io/"/>
+  <updated>2015-12-10T12:17:49+08:00</updated>
+  <id>http://zneo.github.io/</id>
   <author>
     <name><![CDATA[Neo Zang]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[开始使用Octopress]]></title>
-    <link href="http://yoursite.com/blog/2015/12/10/first-post/"/>
+    <link href="http://zneo.github.io/blog/2015/12/10/first-post/"/>
     <updated>2015-12-10T11:07:41+08:00</updated>
-    <id>http://yoursite.com/blog/2015/12/10/first-post</id>
+    <id>http://zneo.github.io/blog/2015/12/10/first-post</id>
     <content type="html"><![CDATA[<p>以前也在github-pages上折腾过几次静态博客, 但都是只有开头, 最后无疾而终, sigh</p>
 
 <p>最近看到Octopress, 又重新燃起了把技术博客做起来的热情. 花了半个小时适用, 觉得还是蛮方便的, 于是决定重新用Octopress把博客搞起来.</p>
