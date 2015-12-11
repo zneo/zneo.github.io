@@ -4,7 +4,7 @@
   <title><![CDATA[Neo的技术博客]]></title>
   <link href="http://zneo.github.io/atom.xml" rel="self"/>
   <link href="http://zneo.github.io/"/>
-  <updated>2015-12-10T18:17:17+08:00</updated>
+  <updated>2015-12-11T16:25:37+08:00</updated>
   <id>http://zneo.github.io/</id>
   <author>
     <name><![CDATA[Neo Zang]]></name>
@@ -26,6 +26,13 @@
 
 <ul>
 <li><a href="http://octopress.org/docs">http://octopress.org/docs</a></li>
+</ul>
+
+
+<p>为了国内复杂的网络环境,需要做一定的修改:</p>
+
+<ul>
+<li>将 jQuery 和 Fonts 换为国内 CDN</li>
 </ul>
 
 ]]></content>
